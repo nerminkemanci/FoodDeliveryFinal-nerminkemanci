@@ -9,7 +9,7 @@ This is an basic food delivery application which was developed for Kodluyoruz Ye
 - Glide 
 - Coroutines
 - View Pager 2
--Kotlin Safe Args
+- Kotlin Safe Args
 
 ## Backand Side of Application
 We have created a simple rest api server for the backend side of the application.</br> 
